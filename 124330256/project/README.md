@@ -1,5 +1,5 @@
 # Task Management App
-# Video Demo: https://voicethread.com/myvoice/thread/30135107
+
 # Description:
 
 ### The Task Management Application is a Python-based command-line tool that allows users to manage their tasks. It provides basic functionality for adding, listing, and removing tasks, along with tracking their completion status. Tasks are stored in a JSON file (tasks.json), making it easy to load and save data between sessions. This simple tool aims to help users stay organized by managing tasks efficiently.
